@@ -6,6 +6,8 @@ Story Share Web
 한 페이지 내 게시물을 CRUD하여 회원간 공유하는 웹서비스입니다.
 ```
 * 기능: [feature list](https://github.com/ElfCony/story-web/wiki/feature-list)
+* 웹디자인: [Web design](https://github.com/ElfCony/story-web/wiki/웹디자인)
+* DB 설계: [DB design](https://github.com/ElfCony/story-web/wiki/데이터베이스-설계)
 * 일정: [To do](https://github.com/ElfCony/story-web/projects/1?)
 
 2.환경
